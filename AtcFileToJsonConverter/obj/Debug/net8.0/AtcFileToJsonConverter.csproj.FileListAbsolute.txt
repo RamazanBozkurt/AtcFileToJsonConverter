@@ -1,0 +1,17 @@
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\bin\Debug\net8.0\AtcFileToJsonConverter.exe
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\bin\Debug\net8.0\AtcFileToJsonConverter.deps.json
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\bin\Debug\net8.0\AtcFileToJsonConverter.runtimeconfig.json
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\bin\Debug\net8.0\AtcFileToJsonConverter.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\bin\Debug\net8.0\AtcFileToJsonConverter.pdb
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\AtcFileToJsonConverter.csproj.AssemblyReference.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\AtcFileToJsonConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\AtcFileToJsonConverter.AssemblyInfoInputs.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\AtcFileToJsonConverter.AssemblyInfo.cs
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\AtcFileToJsonConverter.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\AtcFileT.80C2CB94.Up2Date
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\AtcFileToJsonConverter.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\refint\AtcFileToJsonConverter.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\AtcFileToJsonConverter.pdb
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\AtcFileToJsonConverter.genruntimeconfig.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Projects\AtcFileToJsonConverter\AtcFileToJsonConverter\AtcFileToJsonConverter\obj\Debug\net8.0\ref\AtcFileToJsonConverter.dll
